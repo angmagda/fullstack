@@ -2,7 +2,7 @@ var express = require('express');
 var database = require('./liardatabase');
 var bodyParser = require('body-parser');
 var Sequelize = require('sequelize');
-
+var thing = 'thiug';
 var app = express();
 
 
